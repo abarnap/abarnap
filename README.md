@@ -6,9 +6,7 @@
 
 ### About me
 
-<p align="justify">I am expertise in Web Development and wanted to work in a challenging environment that encourages learning and exposure to new ideas to stimulate professional and personal growth.</p>
-
-<br>
+<p align="justify">Developer with a demonstrated history of working in the information technology and services industry. Skilled in Laravel, PHP, MySql, Bootstrap, and TailwindCSS.<br>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
