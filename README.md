@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">Developer with a demonstrated history of working in the information technology and services industry. Skilled in Laravel, PHP, MySql, Bootstrap, and TailwindCSS.<br>
+<p align="justify">As a Laravel developer, I have experience in building web applications from scratch using the Laravel framework. I have also created custom packages and have experience in working with databases and APIs. I am a quick learner and have a good understanding of the MVC pattern. I am also familiar with HTML, CSS, and JavaScript.<br>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
