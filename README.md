@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">As a Laravel developer, I have experience in building web applications from scratch using the Laravel framework. I have also created custom packages and have experience in working with databases and APIs. I am a quick learner and have a good understanding of the MVC pattern. I am also familiar with HTML, CSS, and JavaScript.<br>
+<p align="justify">As a web developer, I am passionate about creating visually appealing and user-friendly websites. I have a solid foundation in front-end development and an excellent attention to detail. I have knowledge of server-side technologies and have expertise with back-end programming. I am an effective problem-solver and a quick learner. I work well in groups and possess strong communication abilities.<br>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
