@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">As a web developer, I am passionate about creating visually appealing and user-friendly websites. I have a solid foundation in front-end development and an excellent attention to detail. I have knowledge of server-side technologies and have expertise with back-end programming. I am an effective problem-solver and a quick learner. I work well in groups and possess strong communication abilities.<br>
+<p align="justify">Laravel developer with one year of experience in developing web applications. I have a deep understanding of the framework and I am highly comfortable with all related technologies such as HTML, CSS, JavaScript, PHP, and MySQL. I am an experienced problem solver and I have a great eye for detail. I have a passion for learning new technologies, and I am confident in my ability to provide quality results for any project.<br>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
