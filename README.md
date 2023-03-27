@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">Laravel developer with one year of experience in developing web applications. I have a deep understanding of the framework and I am highly comfortable with all related technologies such as HTML, CSS, JavaScript, PHP, and MySQL. I am an experienced problem solver and I have a great eye for detail. I have a passion for learning new technologies, and I am confident in my ability to provide quality results for any project.<br>
+<p align="justify">I am a skilled software testing professional with 1 year of experience in the industry. I possess an in-depth understanding of testing methodologies and processes, and I am proficient in automation testing using Selenium and Python. I have excellent analytical and problem-solving skills, which enable me to identify and isolate defects efficiently.<br>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
