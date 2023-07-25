@@ -6,7 +6,9 @@
 
 ### About me
 
-<p align="justify">I am a skilled software testing professional with 1 year of experience in the industry. I possess an in-depth understanding of testing methodologies and processes, and I am proficient in automation testing using Selenium and Python. I have excellent analytical and problem-solving skills, which enable me to identify and isolate defects efficiently.<br>
+<p align="justify">
+  Dedicated and highly skilled Laravel developer with two years of professional experience seeking a challenging position to utilize my expertise in developing robust and scalable web applications. Proficient in PHP, Laravel framework, and front-end technologies, with a strong commitment to delivering high-quality code and exceptional user experiences.
+</p>
 
 <a href="https://www.linkedin.com/in/abarnap/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:abarna1022@gmail.com?subject=Refered%20From%20Git%20Profile"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
